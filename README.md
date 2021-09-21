@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ZSJOE
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @ZSJOE or Johan Viljoen
+- 👀 I’m interested in drones, aircraft, aviation and simulators and I build simulators
+- 🌱 I’m currently learning to build drones, program them and fly them for fun
+- 💞️ I’m looking to collaborate on new ideas, problem solving and helping others
+- 📫 How to reach me - hobbycraft69@gmail.com
 
 <!---
 ZSJOE/ZSJOE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
